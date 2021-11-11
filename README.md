@@ -35,13 +35,13 @@ To select the quotes linked to ecology for our dataset, we perform a "lexical fi
 
 ### Some statistics
     
-    As described in our research questions, the first part of the project is to extract some statistical conclusions on our dataset to explore the distribution of women and men speaking about ecology (question 1 and 2) such as : 
-    
-    → Plot general statistics of the quotes number of men and women for this two different years
-    
-    → Show the evolution per day of the number of citations of women in our dataset compared to those of men for the years 2015 and 2019. We also plot general statistics of the number of quotes of men and women for this two differents years. 
-    
-    Finally we will do some statitics to perform some conclusion about the occurences of each "subfields" between men and women once they have been defined (question 3). 
+As described in our research questions, the first part of the project is to extract some statistical conclusions on our dataset to explore the distribution of women and men speaking about ecology (question 1 and 2) such as : 
+
+→ Plot general statistics of the quotes number of men and women for this two different years
+
+→ Show the evolution per day of the number of citations of women in our dataset compared to those of men for the years 2015 and 2019. We also plot general statistics of the number of quotes of men and women for this two differents years. 
+
+Finally we will do some statitics to perform some conclusion about the occurences of each "subfields" between men and women once they have been defined (question 3). 
     
 ### Subtopic selection
 
@@ -64,6 +64,6 @@ To select the quotes linked to ecology for our dataset, we perform a "lexical fi
 ## Schedule
 
 | Schedule             | Stella      | Blanche       | Philippine   | Alix    |
-| :---                 |    :----:   |          ---: |
+| :---                 |    :----:   |          ---: |              |         
 | 23 nov - 26 nov      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Paragraph            | Text        | And more      |
