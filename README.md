@@ -53,7 +53,9 @@ Finally we will do some statitics to perform some conclusion about the occurence
 
 ## Schedule for Milestones 3
 
-| Schedule             | Stella      | Blanche       | Philippine   | Alix    |
-| :---                 |    :----:   |          ---: |              |         
-| 23 nov - 26 nov      | Title       | Here's this   |
-| Paragraph            | Text        | And more      |
+| Week            | Stella                  | Philippine              | Blanche                          | Alix                                  |
+|-----------------|-------------------------|-------------------------|----------------------------------|---------------------------------------|
+| 23 nov - 26 nov | Sub topic selection     | Word frequency analysis | Blog creation                    | Statistics over years                 |
+| 26 nov - 3 dec  | Word frequency analysis | Word frequency analysis | Statistics                       | Statistics                            |
+| 4 dec - 10 dec  | Sentiment analysis      | Sentiment analysis      | Statistics of subtopic selection | Visualization (make graphs)           |
+| 11 dec - 17 dec | Visualisation and blog  | Visualisation           | Visualisation and blog           | Visualisation (make plots and graphs) |
