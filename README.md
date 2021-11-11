@@ -51,7 +51,7 @@ Finally we will do some statitics to perform some conclusion about the occurence
 
   A first method to use is the word frequency analysis, getting rid of stop words such as "the" or "is", but maybe keeping the pronouns. We will yield the most used verbs/nouns/pronouns for each gender or each subtopics. For each of those words, we could go a step further and use bi-grams to visualize how words are connected. Finally, we can run a general sentiment analysis per quote. Python provides a handy toolkit of Natural Language Processing to perform all these tasks, namely `nltk`.
 
-## Schedule for milestones 3
+## Schedule for Milestones 3
 
 | Schedule             | Stella      | Blanche       | Philippine   | Alix    |
 | :---                 |    :----:   |          ---: |              |         
