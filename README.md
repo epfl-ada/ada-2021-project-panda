@@ -22,7 +22,7 @@ If you are really interested in our ADAdventure, don't wait, run and visit our s
 
 ```bash
 .
-├── WHo_cares_about_climate_change.ipynb     # Notebook containing data handling pipeline and all our analyses
+├── Who_cares_about_climate_change.ipynb     # Notebook containing data handling pipeline and all our analyses
 ├── gender_extraction.py # for speaker gender extraction
 ├── nlp_processing.py # for further processing
 ├── processing_functions.py # for initial pre processing
