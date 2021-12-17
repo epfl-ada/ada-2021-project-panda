@@ -65,7 +65,7 @@ Our goal is first to explore the topics discussed by each speaker in the environ
   
 ### Word analysis, defining communication tools for each gender
 
-  A first method to use is the word frequency analysis. We will yield the most used verbs/nouns/pronouns for each gender or each subtopics. For each of those words, we could go a step further and use bi-grams to visualize how words are connected. Finally, we can run a general sentiment analysis per quote. Python provides a handy toolkit of Natural Language Processing to perform all these tasks, namely `nltk`.
+  We used the word frequency analysis tool in order to yield the most used verbs/nouns/pronouns for each gender taking into account all the years. Finally, we ran a general sentiment analysis on all the quotation.
   
 ## Contribution to the project
 Each member of the Panda 🐼 team, consisting of Philippine des Courtils, Blanche Brognart, Alix Louvet and Stella Petronio contributed and helped to find an answer to each research question using the methods listed above.
