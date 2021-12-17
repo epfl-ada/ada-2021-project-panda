@@ -22,10 +22,14 @@ If you are really interested in our ADAdventure, don't wait, run and visit our s
 
 ```bash
 .
-├── Cleaning_data.ipynb     # Notebook containing data handling pipeline and initial analysis
-├── gender_extraction.py    # python file to process speaker_attributes.parquet
+├── WHo_cares_about_climate_change.ipynb     # Notebook containing data handling pipeline and all our analyses
+├── gender_extraction.py # for speaker gender extraction
+├── nlp_processing.py # for further processing
+├── processing_functions.py # for initial pre processing
 └── README.md
 ```
+_As a side note, our notebook should be run in colab._
+
 
 ## Research questions
 The goal is to analyse our dataset in order to answer the following research questions: 
